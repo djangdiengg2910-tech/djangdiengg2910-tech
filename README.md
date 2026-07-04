@@ -29,7 +29,7 @@ A minimalist quiz game where players discover hidden keywords through AI-generat
 
 🔗 Repository →https://github.com/djangdiengg2910-tech/demo_dinhding
 
-🎮 Live Demo → <img width="900" alt="image" src="https://github.com/user-attachments/assets/829f1027-86d2-4c10-ba24-57265e6eee32" />
+🎮 Live Demo → <img width="500" alt="image" src="https://github.com/user-attachments/assets/829f1027-86d2-4c10-ba24-57265e6eee32" />
 
 
 ---
